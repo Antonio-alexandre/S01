@@ -8,8 +8,8 @@
   
 50 NEXT I
 
-60 PRINT "Número aleatório: "; N
+60 PRINT "Número a ser calculado: "; 
 
-70 PRINT "Fatorial de "; N; " é "; FATORIAL
+70 PRINT "Fatorial de "; N; " é "; NÃO CONSEGUI FAZER FUNCIONAR
 
 80 END
